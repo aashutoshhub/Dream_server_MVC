@@ -1,0 +1,196 @@
+﻿
+@model DreamServe.Models.AdminModel
+
+@{
+    ViewData["Title"] = "NewJob";
+    Layout = "~/Views/Shared/_admin.cshtml";
+    //Layout = null;
+}
+
+
+
+
+
+@*<div class="card">
+    <div class="card-header bg-success text-white text-uppercase">
+        <h4>Add Employee</h4>
+    </div>
+
+    <div class="card-body">
+        <form asp-action="AddEmployee" method="post" >
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" asp-for="Name" class="form-control" id="Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Department">
+                    Department
+                </label>
+                <input type="text" asp-for="Department" class="form-control"
+                       id="Department">
+                <span asp-validation-for="Department" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Salary">
+                    Salary
+                </label>
+                <input type="text" asp-for="Salary" class="form-control" id="Salary">
+                <span asp-validation-for="Salary" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-success rounded-0">Submit</button>
+        </form>
+        @if (TempData["msg"] != null)
+        {
+            <script>
+                alert('@TempData["msg"].ToString();');
+                window.location.href = "@Url.Action("Index","Employee")";
+            </script>
+        }
+    </div>
+</div>*@
+
+
+
+
+<form asp-action="NewJob">
+
+    
+
+    <div class="pcoded-inner-content">
+       @* <div class="align-align-self-end">
+            <asp:Label ID="lblMsg" runat="server" Visible="true"></asp:Label>
+            <%--<asp:Label runat="server" Text="Label" ID="text"></asp:Label>--%>
+        </div>*@
+
+
+        <div class="main-body">
+            <div class="page-wrapper">
+                <div class="page-body">
+                    <div class="row">
+                    </div>
+
+                    <!-- Data widget start -->
+                    <div class="col-md-12 col-xl-6">
+                        <div class="card project-task">
+                            <div class="card-header">
+                                <div class="card-header-Middle ">
+                                    <h5>Category</h5>
+                                </div>
+
+                            </div>
+                            <div class="card-block p-b-10">
+                                <div>
+
+                                    <form method="POST" id="newJob_form">
+
+                                    <div class="form-group">
+                                        <label for="categoryName">Company Name</label>
+                                        <div>
+                                                <input type="text"  id="companyname" name="companyname"  placeholder="Enter Company Name" />
+
+                                        </div>
+                                    </div>
+                                    <div class="card-block p-b-10">
+                                        <div>
+                                            <div class="form-group">
+                                                <label for="categoryName">Job Title</label>
+                                                <div>
+                                                        <input type="text" id="jobTitle" name="jobTitle" CssClass="form-control" placeholder="Enter Job title" />
+
+                                                </div>
+                                            </div>
+                                            <div class="card-block p-b-10">
+                                                <div>
+                                                    <div class="form-group">
+                                                        <label for="categoryName">Apply link</label>
+                                                        <div>
+                                                           
+                                                            <input type="text" id="applylink" name="applylink" CssClass="form-control" placeholder="Enter apply link" />
+                                                           
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-block p-b-10">
+                                                        <div>
+                                                            <div class="form-group">
+                                                                <label for="categoryName">Discription</label>
+                                                                <div>
+                                                                    <textarea id="txtDescription" name="txtDescription" cols="80" rows="4" CssClass="form-control" placeholder="Enter Discription" ></textarea>
+
+
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="card-block p-b-50">
+                                                                Last Date to apply:<input type="date" id="inputDate" name="inputDate" runat="server" size="30" class="form-control" min="2023-01-1" max="2030-01-01" />
+
+
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+
+                                                    <div class="form-group">
+                                                        <label for="categoryImage">Company Image</label>
+                                                        <div>
+                                                            <input type="text" id="companyImageUrl" name="companyImageUrl" CssClass="form-control" placeholder="Enter image URL" required />
+                                                        </div>
+                                                    </div>
+                                                    <div class="pb-5 ">
+                                                         <button type="submit" class="btn btn-primary btn-block"  >Post</button
+                                                    </div>
+
+                                                    </form>
+
+                                                   
+                                                    
+
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+
+                <div id="styleSelector">
+                    <br />
+                    <br />
+                    <br />
+
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</form>
+
+
+@if (TempData["msg"] != null)
+{
+    <script>
+        alert('@TempData["msg"].ToString();');
+       @*window.location.href = "@Url.Action("Login","LoginRegistration")";*@
+    </script>
+}
+
+

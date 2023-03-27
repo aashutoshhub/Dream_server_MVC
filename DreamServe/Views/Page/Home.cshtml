@@ -1,0 +1,198 @@
+﻿@{
+    ViewData["Title"] = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+<main>
+
+    <!-- slider Area Start-->
+    <div class="slider-area ">
+
+        <!-- Mobile Menu -->
+        <div class="slider-active">
+
+            <div class="slider-area ">
+
+                <!-- Mobile Menu -->
+                <div class="slider-active">
+                    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img class="d-block w-100" src="assets/img/hero/about10.png" alt="First slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100" src="assets/img/hero/h1_hero.jpg" alt="Second slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100" src="assets/img/hero/h1_hero.jpg" alt="Third slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-6 col-lg-9 col-md-10">
+                                <div class="hero__caption">
+                                    <h1></h1>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Search Box -->
+                        <div class="row">
+                            <div class="col-xl-8">
+                                <!-- form -->
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Featured_job_start -->
+        <section class="featured-job-area feature-padding">
+            <div class="container">
+                <!-- Section Tittle -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-tittle text-center">
+                            <span>Recent Job</span>
+                            <h2>Featured Jobs</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-xl-10">
+                        <!-- single-job-content -->
+
+                        <asp:Repeater ID="Repeater1" runat="server">
+                            <ItemTemplate>
+                                <div class="single-job-items mb-30">
+                                    <div class="job-items">
+                                        <div class="company-img">
+                                            <%--<a href=""><img id="companyImageID" src="assets/img/icon/job-list1.png" alt=""></a>
+                                            --%>
+                                            <asp:Image ID="Image1" runat="server" Height="214px" Width="157px"
+                                                       ImageUrl='<%# Eval("company_image") %>' />
+
+                                        </div>
+                                        <div class="job-tittle">
+                                            <a href='<%# Eval("apply_link") %>' target="_blank"><h4><%# Eval("job_title") %></h4></a>
+                                            <ul>
+                                                <li><%# Eval("company_name") %></li>
+                                                <li><%# Eval("description") %></li>
+                                                <li><%# Eval("last_date") %> </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="items-link f-right">
+                                        &nbsp;<a href='<%# Eval("apply_link") %>' target="_blank"> Apply Link</a>
+                                        <span>7 hours ago</span>
+                                    </div>
+                                </div>
+
+                            </ItemTemplate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Featured_job_end -->
+        <!-- How  Apply Process Start-->
+        <div class="apply-process-area apply-bg pt-150 pb-150" data-background="assets/img/gallery/how-applybg.png">
+            <div class="container">
+                <!-- Section Tittle -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-tittle white-text text-center">
+                            <span>Apply process</span>
+                            <h2> How it works</h2>
+                        </div>
+                    </div>
+                </div>
+                <!-- Apply Process Caption -->
+                <div class="row">
+                    <div class="col-lg-4 col-md-6">
+                        <a href="findjob.aspx" target="_self">
+                            <div class="single-process text-center mb-30">
+
+                                <div class="process-ion">
+                                    <span class="flaticon-search"></span>
+                                </div>
+                                <div class="process-cap">
+                                    <h5>1. Search a job</h5>
+                                    <p>This feature allows users to input keywords related to the job content they are searching for, such as the job title, location, or specific skills required.</p>
+                                </div>
+
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <a href="findjob.aspx" target="_self">
+                            <div class="single-process text-center mb-30">
+                                <div class="process-ion">
+                                    <span class="flaticon-curriculum-vitae"></span>
+                                </div>
+                                <div class="process-cap">
+                                    <h5>2. Apply for job</h5>
+                                    <p>
+                                        This feature allows job seekers to submit personal information, resume, and cover letter. Employer/admin can track and manage applications.
+
+
+
+                                    </p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <a href="findjob.aspx" target="_self">
+                            <div class="single-process text-center mb-30">
+                                <div class="process-ion">
+                                    <span class="flaticon-tour"></span>
+                                </div>
+                                <div class="process-cap">
+                                    <h5>3. Get your job</h5>
+                                    <p>This feature matches job seekers with suitable job openings, based on their profile and skills, and allows them to apply.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+</main>
+
+
+
+
+
+

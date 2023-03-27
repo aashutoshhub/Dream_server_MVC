@@ -1,0 +1,2501 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DreamServe.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DreamServe.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\css\\app.css",
+      "PackagePath": "staticwebassets\\DBAssests\\css\\app.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\css\\bootstrap-extended.css",
+      "PackagePath": "staticwebassets\\DBAssests\\css\\bootstrap-extended.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\DBAssests\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\css\\dark-theme.css",
+      "PackagePath": "staticwebassets\\DBAssests\\css\\dark-theme.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\css\\header-colors.css",
+      "PackagePath": "staticwebassets\\DBAssests\\css\\header-colors.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\css\\icons.css",
+      "PackagePath": "staticwebassets\\DBAssests\\css\\icons.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\css\\pace.min.css",
+      "PackagePath": "staticwebassets\\DBAssests\\css\\pace.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\css\\semi-dark.css",
+      "PackagePath": "staticwebassets\\DBAssests\\css\\semi-dark.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\ad.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\ad.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\ae.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\ae.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\af.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\af.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\ag.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\ag.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\ai.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\ai.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\al.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\al.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\am.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\am.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\ao.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\ao.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\aq.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\aq.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\ar.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\ar.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\as.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\as.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\at.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\at.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\au.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\au.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\aw.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\aw.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\ax.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\ax.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\az.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\az.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\ba.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\ba.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bb.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bb.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bd.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bd.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\be.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\be.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bf.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bf.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bg.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bg.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bh.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bh.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bi.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bi.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bj.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bj.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bl.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bl.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bm.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bm.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bn.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bn.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bo.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bo.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bq.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bq.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\br.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\br.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bs.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bs.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bt.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bt.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bv.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bv.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bw.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bw.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\by.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\by.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\bz.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\bz.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\ca.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\ca.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\cc.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\cc.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\cd.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\cd.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\cf.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\cf.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\cg.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\cg.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\ch.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\ch.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\ci.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\ci.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\ck.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\ck.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\cl.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\cl.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\cm.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\cm.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\cn.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\cn.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\co.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\co.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\cr.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\cr.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\cu.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\cu.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\cv.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\cv.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\cw.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\cw.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\cx.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\cx.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\cy.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\cy.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\cz.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\cz.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\de.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\de.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\dj.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\dj.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\dk.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\dk.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\dm.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\dm.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\do.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\do.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\dz.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\dz.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\ec.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\ec.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\ee.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\ee.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\eg.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\eg.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\eh.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\eh.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\er.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\er.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\es.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\es.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\et.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\et.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\fi.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\fi.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\fj.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\fj.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\fk.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\fk.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\fm.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\fm.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\1x1\\fo.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\1x1\\fo.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\ad.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\ad.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\ae.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\ae.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\af.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\af.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\ag.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\ag.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\ai.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\ai.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\al.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\al.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\am.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\am.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\ao.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\ao.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\aq.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\aq.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\ar.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\ar.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\as.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\as.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\at.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\at.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\au.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\au.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\aw.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\aw.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\ax.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\ax.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\az.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\az.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\ba.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\ba.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bb.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bb.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bd.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bd.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\be.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\be.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bf.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bf.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bg.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bg.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bh.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bh.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bi.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bi.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bj.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bj.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bl.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bl.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bm.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bm.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bn.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bn.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bo.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bo.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bq.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bq.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\br.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\br.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bs.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bs.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bt.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bt.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bv.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bv.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bw.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bw.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\by.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\by.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\bz.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\bz.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\ca.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\ca.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\cc.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\cc.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\cd.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\cd.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\cf.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\cf.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\cg.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\cg.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\ch.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\ch.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\ci.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\ci.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\ck.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\ck.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\cl.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\cl.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\cm.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\cm.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\cn.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\cn.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\co.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\co.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\cr.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\cr.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\cu.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\cu.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\cv.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\cv.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\cw.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\cw.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\cx.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\cx.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\cy.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\cy.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\cz.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\cz.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\de.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\de.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\dj.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\dj.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\dk.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\dk.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\dm.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\dm.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\do.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\do.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\dz.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\dz.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\ec.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\ec.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\ee.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\ee.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\eg.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\eg.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\eh.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\eh.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\er.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\er.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\es.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\es.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\et.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\et.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\fi.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\fi.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\fj.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\fj.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\fk.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\fk.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\fm.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\fm.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\flags\\4x3\\fo.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\flags\\4x3\\fo.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\fonts\\LineIcons.eot",
+      "PackagePath": "staticwebassets\\DBAssests\\fonts\\LineIcons.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\fonts\\LineIcons.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\fonts\\LineIcons.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\fonts\\LineIcons.ttf",
+      "PackagePath": "staticwebassets\\DBAssests\\fonts\\LineIcons.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\fonts\\LineIcons.woff",
+      "PackagePath": "staticwebassets\\DBAssests\\fonts\\LineIcons.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\fonts\\LineIcons.woff2",
+      "PackagePath": "staticwebassets\\DBAssests\\fonts\\LineIcons.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\DBAssests\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\DBAssests\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\DBAssests\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\DBAssests\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\fonts\\boxiconsd41d.svg",
+      "PackagePath": "staticwebassets\\DBAssests\\fonts\\boxiconsd41d.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\avatars\\avatar-1.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\avatars\\avatar-1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\bg-themes\\1.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\bg-themes\\1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\bg-themes\\2.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\bg-themes\\2.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\bg-themes\\3.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\bg-themes\\3.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\01.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\01.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\02.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\02.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\03.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\03.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\04.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\04.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\05.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\05.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\06.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\06.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\07.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\07.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\08.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\08.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\09.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\09.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\10.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\10.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\11.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\11.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\12.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\12.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\13.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\13.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\14.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\14.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\15.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\15.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\16.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\16.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\17.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\17.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\18.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\18.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\19.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\19.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\35.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\35.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\36.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\36.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\gallery\\37.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\gallery\\37.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\icons\\forgot-2.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\icons\\forgot-2.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\login-images\\bg-forgot-password.jpg",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\login-images\\bg-forgot-password.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\login-images\\bg-lock-screen.jpg",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\login-images\\bg-lock-screen.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\login-images\\bg-login-img.jpg",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\login-images\\bg-login-img.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\logo-icon.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\01.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\01.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\02.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\02.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\03.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\03.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\04.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\04.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\05.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\05.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\06.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\06.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\07.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\07.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\08.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\08.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\09.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\09.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\10.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\10.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\11.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\11.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\12.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\12.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\13.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\13.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\14.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\14.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\15.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\15.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\16.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\16.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\17.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\17.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\18.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\18.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\images\\products\\19.png",
+      "PackagePath": "staticwebassets\\DBAssests\\images\\products\\19.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\js\\app.js",
+      "PackagePath": "staticwebassets\\DBAssests\\js\\app.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\js\\index.js",
+      "PackagePath": "staticwebassets\\DBAssests\\js\\index.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\js\\index2.js",
+      "PackagePath": "staticwebassets\\DBAssests\\js\\index2.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\js\\index3.js",
+      "PackagePath": "staticwebassets\\DBAssests\\js\\index3.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\js\\pace.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\js\\widgets.js",
+      "PackagePath": "staticwebassets\\DBAssests\\js\\widgets.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\apexcharts-bundle\\js\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\apexcharts-bundle\\js\\apexcharts.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\bs-stepper\\js\\bs-stepper.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\bs-stepper\\js\\bs-stepper.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\bs-stepper\\js\\main.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\bs-stepper\\js\\main.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\chartjs\\js\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\chartjs\\js\\Chart.extension.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\chartjs\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\chartjs\\js\\Chart.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\fancy-file-uploader\\jquery.fileupload.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\fancy-file-uploader\\jquery.fileupload.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\fancy-file-uploader\\jquery.ui.widget.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\fancy-file-uploader\\jquery.ui.widget.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\form-repeater\\repeater.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\form-repeater\\repeater.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\fullcalendar\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\fullcalendar\\js\\main.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\input-tags\\js\\tagsinput.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\input-tags\\js\\tagsinput.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\metismenu\\css\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\metismenu\\css\\metisMenu.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\metismenu\\js\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\metismenu\\js\\metisMenu.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\morris\\js\\morris.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\morris\\js\\morris.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\notifications\\js\\lobibox.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\notifications\\js\\lobibox.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\notifications\\js\\notification-custom-script.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\notifications\\js\\notification-custom-script.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\notifications\\js\\notifications.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\notifications\\js\\notifications.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\raphael\\raphael-min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\raphael\\raphael-min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\select2\\js\\select2-custom.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\select2\\js\\select2-custom.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\simplebar\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\simplebar\\css\\simplebar.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\simplebar\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\simplebar\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\sparkline-charts\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\sparkline-charts\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\validation\\validation-script.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\validation\\validation-script.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\DBAssests\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\DBAssests\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\css\\price_rangs.css",
+      "PackagePath": "staticwebassets\\assets\\css\\price_rangs.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slicknav.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\about\\about_lft.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about_lft.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\about\\about_right.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about_right.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\about\\pet_care.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\pet_care.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\adapt_icon\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\adapt_icon\\1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\adapt_icon\\1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\adapt_icon\\1.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\adapt_icon\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\adapt_icon\\2.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\adapt_icon\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\adapt_icon\\3.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\banner\\dog.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\dog.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\banner\\img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\img.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\blog\\blog_4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog_4.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\blog\\home-blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\home-blog1.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\blog\\home-blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\home-blog2.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\gallery\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\gallery\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\2.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\gallery\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\3.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\gallery\\cv_bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\cv_bg.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\gallery\\how-applybg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\how-applybg.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\hero\\abc.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\abc.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\hero\\abc3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\abc3.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\hero\\abc4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\abc4.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\hero\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\about.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\hero\\about1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\about1.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\hero\\about10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\about10.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\hero\\h1_hero.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\h1_hero.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\icon\\form.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\form.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\icon\\job-list1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\job-list1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\icon\\job-list2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\job-list2.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\icon\\job-list3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\job-list3.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\icon\\job-list4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\job-list4.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\icon\\logo2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\logo2.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\logo\\loder.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\loder.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\offers\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\offers\\1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\offers\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\offers\\2.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\offers\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\offers\\3.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\our_blog\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\our_blog\\blog-img1.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\next.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\prising\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\prising\\10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\10.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\prising\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\2.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\prising\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\3.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\prising\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\4.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\prising\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\5.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\prising\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\6.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\prising\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\7.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\prising\\8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\8.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\prising\\9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\9.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\service\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\service\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\2.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\service\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\3.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\service\\footer_bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\footer_bg.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\service\\service_icon_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\service_icon_1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\service\\service_icon_2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\service_icon_2.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\service\\service_icon_3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\service_icon_3.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\service\\service_icon_bg_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\service_icon_bg_1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\service\\support-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\support-img.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\service\\support-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\support-img1.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\team\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\team\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\2.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\team\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\3.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\testmonial\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testmonial\\1.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\img\\testmonial\\testimonial-founder.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testmonial\\testimonial-founder.png"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\animated.headline.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animated.headline.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mail-script.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\one-page-nav-min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\one-page-nav-min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\price_rangs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\price_rangs.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_apply-proces.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_apply-proces.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_blog_page.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_blog_page.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_color.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_color.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_common.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_cv-online.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_cv-online.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_extend.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_featured-Jobs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_featured-Jobs.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_h1-hero.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_h1-hero.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_headerMenu.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_headerMenu.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_job_details.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_job_details.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_job_listing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_job_listing.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_overlay.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_overlay.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_recent.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_recent.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_services.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_services.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_services_section.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_services_section.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_support-company.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_support-company.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_team.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_team.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_testimonial.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\css\\style.css",
+      "PackagePath": "staticwebassets\\regLogin\\css\\style.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\regLogin\\css\\style.css.map"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\material-icon\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\material-icon\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\material-icon\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\material-icon\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-300.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-300.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-300.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-300.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-300.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-300.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-300.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-300.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-300.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-300.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-300italic.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-300italic.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-300italic.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-300italic.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-300italic.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-300italic.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-300italic.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-300italic.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-300italic.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-300italic.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-500.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-500.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-500.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-500.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-500.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-500.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-500.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-500.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-500.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-500.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-500italic.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-500italic.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-500italic.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-500italic.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-500italic.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-500italic.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-500italic.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-500italic.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-500italic.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-500italic.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-600.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-600.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-600.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-600.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-600.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-600.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-600.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-600.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-600.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-600.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-700.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-700.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-700.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-700.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-700.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-700.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-700.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-700.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-700.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-700.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-700italic.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-700italic.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-700italic.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-700italic.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-700italic.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-800.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-800.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-800.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-800.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-800.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-800.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-800.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-800.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-800.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-800.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-800italic.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-800italic.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-800italic.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-800italic.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-800italic.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-800italic.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-800italic.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-800italic.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-800italic.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-800italic.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-900.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-900.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-900.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-900.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-900.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-900.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-900.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-900.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-900.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-900.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-italic.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-italic.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-italic.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-italic.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-italic.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-italic.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-italic.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-italic.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-regular.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-regular.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-regular.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-regular.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-regular.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-regular.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-regular.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\poppins-v5-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\poppins-v5-latin-regular.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\regLogin\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\images\\signin-image.jpg",
+      "PackagePath": "staticwebassets\\regLogin\\images\\signin-image.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\images\\signup-image.jpg",
+      "PackagePath": "staticwebassets\\regLogin\\images\\signup-image.jpg"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\js\\main.js",
+      "PackagePath": "staticwebassets\\regLogin\\js\\main.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\scss\\common\\extend.scss",
+      "PackagePath": "staticwebassets\\regLogin\\scss\\common\\extend.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\scss\\common\\fonts.scss",
+      "PackagePath": "staticwebassets\\regLogin\\scss\\common\\fonts.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\scss\\common\\global.scss",
+      "PackagePath": "staticwebassets\\regLogin\\scss\\common\\global.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\scss\\common\\minxi.scss",
+      "PackagePath": "staticwebassets\\regLogin\\scss\\common\\minxi.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\scss\\common\\variables.scss",
+      "PackagePath": "staticwebassets\\regLogin\\scss\\common\\variables.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\scss\\layouts\\main.scss",
+      "PackagePath": "staticwebassets\\regLogin\\scss\\layouts\\main.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\scss\\layouts\\responsive.scss",
+      "PackagePath": "staticwebassets\\regLogin\\scss\\layouts\\responsive.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\regLogin\\scss\\style.scss"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\vendor\\jquery\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\regLogin\\vendor\\jquery\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\6th semester\\ASP.NET\\project\\cie-02\\DreamServe\\DreamServe\\wwwroot\\regLogin\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\regLogin\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DreamServe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DreamServe.props",
+      "PackagePath": "build\\DreamServe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DreamServe.props",
+      "PackagePath": "buildMultiTargeting\\DreamServe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DreamServe.props",
+      "PackagePath": "buildTransitive\\DreamServe.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

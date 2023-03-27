@@ -1,0 +1,43 @@
+﻿@using DreamServe.Models
+@model IEnumerable<AdminModel>
+@{
+    ViewData["Title"] = "UserList";
+    Layout = "~/Views/Shared/_admin.cshtml";
+}
+
+
+
+
+
+    <div class="main-body">
+
+
+
+    <table class="table w-auto  table-bordered table-responsive table-dark table-hover">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>password</th>
+                <th>Actions</th>
+            </tr>
+            @foreach (AdminModel item in Model)
+            {
+                <tr>
+                    <td>@item.id</td>
+                    <td>@item.name</td>
+                    <td>@item.email</td>
+                    <td>@item.pass</td>
+                    <td>
+                        <a asp-action="EditUser" asp-route-id="@item.id">Edit</a>
+                        <a asp-action="DeleteUser" asp-route-id="@item.id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </table>
+
+
+
+    </div>
+
+   

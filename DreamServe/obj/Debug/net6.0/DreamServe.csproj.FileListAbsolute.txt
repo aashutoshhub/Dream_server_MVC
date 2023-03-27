@@ -1,0 +1,1037 @@
+E:\ASP .NET\DreamServe\DreamServe\bin\Debug\net6.0\appsettings.Development.json
+E:\ASP .NET\DreamServe\DreamServe\bin\Debug\net6.0\appsettings.json
+E:\ASP .NET\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.staticwebassets.runtime.json
+E:\ASP .NET\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.exe
+E:\ASP .NET\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.deps.json
+E:\ASP .NET\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.runtimeconfig.json
+E:\ASP .NET\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.dll
+E:\ASP .NET\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.pdb
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.csproj.AssemblyReference.cache
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.AssemblyInfoInputs.cache
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.AssemblyInfo.cs
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.csproj.CoreCompileInputs.cache
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.RazorAssemblyInfo.cache
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.RazorAssemblyInfo.cs
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.DreamServe.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.build.DreamServe.props
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DreamServe.props
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DreamServe.props
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets.pack.json
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets.build.json
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets.development.json
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\scopedcss\bundle\DreamServe.styles.css
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\scopedcss\projectbundle\DreamServe.bundle.scp.css
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.dll
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\refint\DreamServe.dll
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.pdb
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.genruntimeconfig.cache
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\ref\DreamServe.dll
+E:\ASP .NET\DreamServe\DreamServe\bin\Debug\net6.0\ImageResizer.dll
+E:\ASP .NET\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.csproj.CopyComplete
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\appsettings.Development.json
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\appsettings.json
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.staticwebassets.runtime.json
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.exe
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.deps.json
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.runtimeconfig.json
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.pdb
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ImageResizer.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.csproj.AssemblyReference.cache
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.AssemblyInfoInputs.cache
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.AssemblyInfo.cs
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.csproj.CoreCompileInputs.cache
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.MvcApplicationPartsAssemblyInfo.cache
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.RazorAssemblyInfo.cache
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.RazorAssemblyInfo.cs
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.DreamServe.Microsoft.AspNetCore.StaticWebAssets.props
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.build.DreamServe.props
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DreamServe.props
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DreamServe.props
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets.pack.json
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets.build.json
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets.development.json
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\scopedcss\bundle\DreamServe.styles.css
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\scopedcss\projectbundle\DreamServe.bundle.scp.css
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.csproj.CopyComplete
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\refint\DreamServe.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.pdb
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.genruntimeconfig.cache
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\ref\DreamServe.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Humanizer.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\MessagePack.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Build.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Common.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\6th semester\ASP.NET\project\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\appsettings.json
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.staticwebassets.runtime.json
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.exe
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.deps.json
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.runtimeconfig.json
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.pdb
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ImageResizer.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.csproj.AssemblyReference.cache
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.AssemblyInfoInputs.cache
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.AssemblyInfo.cs
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.csproj.CoreCompileInputs.cache
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.RazorAssemblyInfo.cache
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.RazorAssemblyInfo.cs
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.DreamServe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.build.DreamServe.props
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DreamServe.props
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DreamServe.props
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\scopedcss\bundle\DreamServe.styles.css
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\scopedcss\projectbundle\DreamServe.bundle.scp.css
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.csproj.CopyComplete
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\refint\DreamServe.dll
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.pdb
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.genruntimeconfig.cache
+C:\Users\Awadhesh Gupta\Desktop\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\ref\DreamServe.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\appsettings.Development.json
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\appsettings.json
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.staticwebassets.runtime.json
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.exe
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.deps.json
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.runtimeconfig.json
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.pdb
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Humanizer.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ImageResizer.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\MessagePack.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Build.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Common.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.csproj.AssemblyReference.cache
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.GeneratedMSBuildEditorConfig.editorconfig
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.AssemblyInfoInputs.cache
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.AssemblyInfo.cs
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.csproj.CoreCompileInputs.cache
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.MvcApplicationPartsAssemblyInfo.cache
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.RazorAssemblyInfo.cache
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.RazorAssemblyInfo.cs
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.DreamServe.Microsoft.AspNetCore.StaticWebAssets.props
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.build.DreamServe.props
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DreamServe.props
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DreamServe.props
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets.pack.json
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets.build.json
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets.development.json
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\scopedcss\bundle\DreamServe.styles.css
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\scopedcss\projectbundle\DreamServe.bundle.scp.css
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.csproj.CopyComplete
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\refint\DreamServe.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.pdb
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.genruntimeconfig.cache
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\obj\Debug\net6.0\ref\DreamServe.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\DreamServe\DreamServe\DreamServe\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\appsettings.Development.json
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\appsettings.json
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.staticwebassets.runtime.json
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.exe
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.deps.json
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.runtimeconfig.json
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\DreamServe.pdb
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Humanizer.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ImageResizer.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\MessagePack.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Build.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Common.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.csproj.AssemblyReference.cache
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.AssemblyInfoInputs.cache
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.AssemblyInfo.cs
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.csproj.CoreCompileInputs.cache
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.MvcApplicationPartsAssemblyInfo.cache
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.RazorAssemblyInfo.cache
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.RazorAssemblyInfo.cs
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.DreamServe.Microsoft.AspNetCore.StaticWebAssets.props
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.build.DreamServe.props
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DreamServe.props
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DreamServe.props
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets.pack.json
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets.build.json
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\staticwebassets.development.json
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\scopedcss\bundle\DreamServe.styles.css
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\scopedcss\projectbundle\DreamServe.bundle.scp.css
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.csproj.CopyComplete
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\refint\DreamServe.dll
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.pdb
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\DreamServe.genruntimeconfig.cache
+E:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\obj\Debug\net6.0\ref\DreamServe.dll

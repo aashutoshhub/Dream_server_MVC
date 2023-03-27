@@ -1,0 +1,47 @@
+﻿@using DreamServe.Models
+@model IEnumerable<AdminModel>
+@{
+    ViewData["Title"] = "JobList";
+    Layout = "~/Views/Shared/_admin.cshtml";
+}
+
+
+
+<div class="main-body">
+
+
+
+    <table class="table w-auto  table-bordered table-responsive table-dark table-hover">
+        <tr>
+            <th>JobId</th>
+            <th>Company Name</th>
+            <th>Job Title</th>
+            <th>Apply Link</th>
+            <th>Description</th>
+            <th>last Date</th>
+            <th>Company Image URL</th>
+            <th>Actions</th>
+        </tr>
+        @foreach (AdminModel item in Model)
+        { 
+            <tr>
+                <td>@item.jobID</td>
+                <td>@item.companyname</td>
+                <td>@item.jobTitle</td>
+                <td>@item.applylink</td>
+                <td>@item.txtDescription</td>
+                <td>@item.inputDate</td>
+                <td>@item.companyImageUrl</td>
+                <td>
+                    <a asp-action="EditJob" asp-route-id="@item.id">Edit</a>
+                    <a asp-action="DeleteJob" asp-route-id="@item.id">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+
+
+
+</div>
+
+

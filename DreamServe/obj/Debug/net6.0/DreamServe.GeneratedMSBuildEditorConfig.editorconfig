@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DreamServe
+build_property.RootNamespace = DreamServe
+build_property.ProjectDir = e:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = e:\6th semester\ASP.NET\project\cie-02\DreamServe\DreamServe
+build_property._RazorSourceGeneratorDebug = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/admin/Dboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cRGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/admin/JobList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cSm9iTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/admin/NewJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cTmV3Sm9iLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/admin/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cVXNlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/LoginRegistration/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5SZWdpc3RyYXRpb25cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/LoginRegistration/Registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5SZWdpc3RyYXRpb25cUmVnaXN0cmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/Page/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/Page/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/Page/FindaJobs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxGaW5kYUpvYnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/Page/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/Shared/_admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9hZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/6th semester/ASP.NET/project/cie-02/DreamServe/DreamServe/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jiin9ee88i
